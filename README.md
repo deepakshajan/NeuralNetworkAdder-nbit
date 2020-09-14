@@ -5,3 +5,5 @@ A simple Machine learned Artificial Intelligence program that can potentially pe
 This example implements an 8 bit addition operation. However this model approach can be extended to n bits provided that we have the necessary hardware and time to train the neural network model to 100% accuracy. Also we could potentialy extend this method to implement any complex mathematical operations if needed.
 
 All the variables used for training are configurable and can be found in the file [addition_neural_network.py](core/addition_neural_network.py)
+
+Frameworks used are TensorFlow and Keras and python as language.
