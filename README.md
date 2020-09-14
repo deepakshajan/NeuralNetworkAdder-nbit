@@ -1,5 +1,4 @@
 # NeuralNetworkAdder-nbit
-
 A simple Machine learned Artificial Intelligence program that can potentially perform n bit addition operations.
 
 Although using machine learning to perform simple tasks like addition can be considered an overkill, the purpose of this repository is to build a simple and elegent neural network that includes the basics of machine learning.
